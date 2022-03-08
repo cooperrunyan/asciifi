@@ -1,6 +1,6 @@
 {
   "name": "asciifi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "bin/index.js",
   "type": "module",
@@ -19,6 +19,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
+    "commander": "^9.0.0",
     "jpeg-js": "^0.4.3",
     "sharp": "^0.30.2"
   }
